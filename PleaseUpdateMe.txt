@@ -1,3 +1,8 @@
+https://github.com/Akokonunes/Private-Nuclei-Templates
+https://github.com/th3r4id/nuclei-templates
+https://github.com/test502git/log4j-fuzz-head-poc
+https://github.com/Akokonunes/Private-Nuclei-Templates
+https://github.com/freakyclown/Nuclei_templates
 https://github.com/0XParthJ/Nuclei-Templates
 https://github.com/0x727/ObserverWard_0x727
 https://github.com/0xAwali/Virtual-Host
